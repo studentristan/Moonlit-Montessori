@@ -74,14 +74,14 @@ Error message and password prompt
 .tc-sidebar-header {
 	text-shadow: 0 1px 0 rgba(255,255,255, 0.8);
 }.tc-tiddler-info {
-
+	
   -webkit-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
      -moz-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
           box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
 
 }@media screen {
 	.tc-tiddler-frame {
-
+		
   -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
      -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
           box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
@@ -89,40 +89,40 @@ Error message and password prompt
 	}
 }@media (max-width: 0p) {
 	.tc-tiddler-frame {
-
+		
   -webkit-box-shadow: none;
      -moz-box-shadow: none;
           box-shadow: none;
 
 	}
 }.tc-page-controls button svg, .tc-tiddler-controls button svg, .tc-topbar button svg {
-
+	
   -webkit-transition: fill 150ms ease-in-out;
      -moz-transition: fill 150ms ease-in-out;
           transition: fill 150ms ease-in-out;
 
 }.tc-tiddler-controls button.tc-selected,
 .tc-page-controls button.tc-selected {
-
+	
   -webkit-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
      -moz-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
           filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
 
 }.tc-tiddler-frame input.tc-edit-texteditor,
 .tc-tiddler-frame select.tc-edit-texteditor {
-
+	
   -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
      -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
           box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
 
 }.tc-edit-tags {
-
+	
   -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
      -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
           box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
 
 }.tc-tiddler-frame .tc-edit-tags input.tc-edit-texteditor {
-
+	
   -webkit-box-shadow: none;
      -moz-box-shadow: none;
           box-shadow: none;
@@ -132,49 +132,49 @@ Error message and password prompt
 }textarea.tc-edit-texteditor {
 	font-family: ;
 }canvas.tc-edit-bitmapeditor  {
-
+	
   -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
      -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
           box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 
 }.tc-drop-down {
 	border-radius: 4px;
-
+	
   -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
      -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
           box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 
 }.tc-block-dropdown {
 	border-radius: 4px;
-
+	
   -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
      -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
           box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 
 }.tc-modal {
 	border-radius: 6px;
-
+	
   -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
      -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
           box-shadow: 0 3px 7px rgba(0,0,0,0.3);
 
 }.tc-modal-footer {
 	border-radius: 0 0 6px 6px;
-
+	
   -webkit-box-shadow: inset 0 1px 0 #fff;
      -moz-box-shadow: inset 0 1px 0 #fff;
           box-shadow: inset 0 1px 0 #fff;
 ;
 }.tc-alert {
 	border-radius: 6px;
-
+	
   -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
      -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
           box-shadow: 0 3px 7px rgba(0,0,0,0.6);
 
 }.tc-notification {
 	border-radius: 6px;
-
+	
   -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
      -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
           box-shadow: 0 3px 7px rgba(0,0,0,0.3);
@@ -183,7 +183,7 @@ Error message and password prompt
 }.tc-sidebar-lists .tc-tab-set .tc-tab-divider {
 	border-top: none;
 	height: 1px;
-
+	
 background-image: linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
 background-image: -o-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
 background-image: -moz-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
@@ -191,7 +191,7 @@ background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,
 background-image: -ms-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
 
 }.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
-
+	
 background-image: linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
 background-image: -o-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
 background-image: -moz-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
@@ -199,7 +199,7 @@ background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,
 background-image: -ms-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
 
 }.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
-
+	
 background-image: linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
 background-image: -o-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
 background-image: -moz-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
@@ -207,13 +207,13 @@ background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,25
 background-image: -ms-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
 
 }.tc-message-box img {
-
+	
   -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
      -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
           box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 
 }.tc-plugin-info {
-
+	
   -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
      -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
           box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
@@ -548,7 +548,7 @@ summary {
 	font-size: 14px;
 	line-height: 20px;
 	word-wrap: break-word;
-
+	
 
 
 	color: #333333;
@@ -816,7 +816,7 @@ a.tc-tiddlylink:hover {
 	color: #333333;
 	fill: #333333;
 }button:disabled.tc-btn-invisible  {
-	cursor: default;
+	cursor: default; 
 	color: #bbb;
 }.tc-btn-boxed {
 	font-size: 0.6em;
@@ -1064,7 +1064,7 @@ a.tc-tiddlylink:hover {
 		margin-top: 0px;
 		transition:  min-height 400ms ease-in-out, padding-top 400ms ease-in-out, padding-bottom 400ms ease-in-out;
 	}
-
+	
 	.tc-story-river {
 		position: relative;
 		padding: 0;
@@ -1373,6 +1373,9 @@ a.tc-tiddlylink:hover {
 	border: 1px solid #cccccc;
 	margin: 4px 0 3px 3px;
 	padding: 3px 3px 3px 3px;
+}.tc-tiddler-preview-preview {
+	overflow-y: scroll;
+	height: 400px;
 }.tc-tiddler-frame .tc-tiddler-preview .tc-edit-texteditor {
 	width: 49%;
 }.tc-tiddler-frame .tc-tiddler-preview canvas.tc-edit-bitmapeditor {
@@ -1790,9 +1793,9 @@ a.tc-tiddlylink:hover {
 }/*
 ** Manager
 */.tc-manager-wrapper {
-
+	
 }.tc-manager-controls {
-
+	
 }.tc-manager-control {
 	margin: 0.5em 0;
 }.tc-manager-list {
@@ -2261,7 +2264,7 @@ a.tc-tiddlylink:hover {
 .tc-thumbnail-icon img {
 	width: 3em;
 	height: 3em;
-
+	
   -webkit-filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));
      -moz-filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));
           filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));
@@ -2269,7 +2272,7 @@ a.tc-tiddlylink:hover {
 }.tc-thumbnail-wrapper:hover .tc-thumbnail-icon svg,
 .tc-thumbnail-wrapper:hover .tc-thumbnail-icon img {
 	fill: #fff;
-
+	
   -webkit-filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.6));
      -moz-filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.6));
           filter: drop-shadow(3px 3px 4px rgba(0,0,0,0.6));
@@ -2406,16 +2409,16 @@ a.tc-tiddlylink:hover {
 
 
 
-/* The \rules pragma at the top of the tiddler restricts the WikiText
- * to just allow macros and transclusion. This avoids mistakenly
+/* The \rules pragma at the top of the tiddler restricts the WikiText 
+ * to just allow macros and transclusion. This avoids mistakenly 
  * triggering unwanted WikiText processing.
- *
+ * 
  * MUST not save as text/css for macro to be processed
 */.ect-block-dropdown li {
     display: block;
     padding: 4px 14px 4px 14px;
     text-decoration: none;
-    color: #5778d8; /*#5778d8;*/
+    color: #5778d8; /*#5778d8;*/ 
     background: transparent;
 }
 .ect-block-dropdown li[patt-selected="true"] {
@@ -2447,7 +2450,7 @@ overflow: scroll;
 box-shadow: 10px 10px 5px #bbb;
   padding: 15px;
 display:block;
-
+  
   /* Position the tooltip */
   position: absolute;
   z-index: 80;
@@ -2516,7 +2519,7 @@ html body.tc-body .indent1 {margin-left:1.5em;display:block;}
 
 /*LINKS*/
 
-html body.tc-body a.tc-tiddlylink {text-decoration: none;font-style: normal;font-weight: normal;}
+html body.tc-body a.tc-tiddlylink {text-decoration: none;font-style: normal;font-weight: normal;} 
 html body.tc-body  a.tc-tiddlylink-missing {font-weight:normal; background-color:#ffd; color:#66f;font-style:normal;}
 html body.tc-body a.tc-tiddlylink-external {text-decoration: none;font-weight: normal;color: #109;}
 html body.tc-body a.tc-tiddlylink-visited {text-decoration: none;font-weight: normal;color: #66f;}
@@ -2552,15 +2555,15 @@ box-shadow: 10px 10px 5px #bbb;
 
 /*HIDE SECTIONS FOR PRINTING*/
 
-@media print {#tc-page-background {display: none ! important;}}
-@media print {.tc-tags-wrapper {display: none ! important;}}
+@media print {#tc-page-background {display: none ! important;}} 
+@media print {.tc-tags-wrapper {display: none ! important;}} 
 
  @media print { body.tc-body {background-color: transparent;}}
- @media print {.tc-image-chevron-up {display: none ! important;}}
- @media print {.tc-image-chevron-down {display: none ! important;}}
- @media print {button.sidebar-toggle {display: none ! important;}}
-@media print {.hideprint {display: none ! important;}}
-@media print {.tc-btn-invisible {display: none ! important;}}
+ @media print {.tc-image-chevron-up {display: none ! important;}} 
+ @media print {.tc-image-chevron-down {display: none ! important;}} 
+ @media print {button.sidebar-toggle {display: none ! important;}} 
+@media print {.hideprint {display: none ! important;}} 
+@media print {.tc-btn-invisible {display: none ! important;}} 
 
 @media print {
 
@@ -2591,12 +2594,8 @@ background-color: <<colour tiddler-info-background>>;}
   border:0px solid #eee;background-color:#eee;
   word-break: break-all; word-wrap: break-word;}
 
-.tc-story-river {
-	padding-left: 25px;
-	padding-right: 25px;
-}
-
-.tc-tiddler-frame {
-	padding-left: 15px;
-	padding-right: 15px;
+.tc-tiddler-controls {
+   display: none;
+}.tc-tab-buttons {
+   display: none;
 }
