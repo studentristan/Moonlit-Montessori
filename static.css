@@ -2592,8 +2592,8 @@ background-color: <<colour tiddler-info-background>>;}
   word-break: break-all; word-wrap: break-word;}
 
 .tc-story-river {
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 .tc-tiddler-frame {
