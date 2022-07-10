@@ -2598,4 +2598,13 @@ background-color: <<colour tiddler-info-background>>;}
    display: none;
 }.tc-tab-buttons {
    display: none;
+}.tc-sidebar-scrollable {
+padding-right: 25px;
+padding-left: 25px;
+}.tc-story-river{
+padding-right: 25px;
+padding-left: 25px;
+}.tc-tiddler-frame{
+padding-left: 10px;
+padding-right: 10px;
 }
